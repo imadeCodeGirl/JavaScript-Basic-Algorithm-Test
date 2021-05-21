@@ -18,10 +18,10 @@ function convertFahrToCelcius(fahr){
         }
     }
 }
-console.log(convertFahrToCelcius(0));
-console.log(convertFahrToCelcius([1,2,3]));
-console.log(convertFahrToCelcius({"temp":0}));
-console.log(convertFahrToCelcius("a"));
+//console.log(convertFahrToCelcius(0));
+//console.log(convertFahrToCelcius([1,2,3]));
+//console.log(convertFahrToCelcius({"temp":0}));
+//console.log(convertFahrToCelcius("a"));
 
 function checkYuGiOh(n){
     if(n === ""){
@@ -73,10 +73,10 @@ function convertN(n){
     return nArrays;
 }
 
-console.log(checkYuGiOh(10));
-console.log(checkYuGiOh(5));
-console.log(checkYuGiOh("fizzbuzz is meh"));
-console.log(checkYuGiOh({"temp":0}));
-console.log(checkYuGiOh("o"));
-console.log(checkYuGiOh(""));
+//console.log(checkYuGiOh(10));
+//console.log(checkYuGiOh(5));
+//console.log(checkYuGiOh("fizzbuzz is meh"));
+//console.log(checkYuGiOh({"temp":0}));
+//console.log(checkYuGiOh("o"));
+//console.log(checkYuGiOh(""));
 
